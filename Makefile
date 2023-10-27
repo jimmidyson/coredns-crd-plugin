@@ -17,7 +17,7 @@
 BIN := k8s_crd
 
 # Where to push the docker image.
-REGISTRY ?= docker.io/absaoss
+REGISTRY ?= ghcr.io/jimmidyson
 
 # Tag 
 TAG ?= latest
